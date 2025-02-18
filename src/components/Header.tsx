@@ -1,7 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { Globe2 } from 'lucide-react';
-import icono from './imagenes/icono_White.png';
+import icono from './img/icono_White.png';
 
 export default function Header() {
   return (
